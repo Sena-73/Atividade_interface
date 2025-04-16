@@ -1,0 +1,51 @@
+
+.fundos {
+    background-color: rgb(54, 52, 52);
+    color: white;
+}
+
+h1,h2,h3 {
+    text-align: center;
+}
+
+.marginindex {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+#comandos {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+.indexp {
+    text-align: center;
+}
+
+.comandos {
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.backtop {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.selva {
+    background-color: rgba(31, 90, 31, 0.705);
+    color: white;
+    text-shadow: 6px 6px 4px rgba(0, 0, 0, 0.781);
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+fieldset {
+   text-align: center;
+}
